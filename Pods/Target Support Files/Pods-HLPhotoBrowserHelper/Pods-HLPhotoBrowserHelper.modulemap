@@ -1,0 +1,6 @@
+framework module Pods_HLPhotoBrowserHelper {
+  umbrella header "Pods-HLPhotoBrowserHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

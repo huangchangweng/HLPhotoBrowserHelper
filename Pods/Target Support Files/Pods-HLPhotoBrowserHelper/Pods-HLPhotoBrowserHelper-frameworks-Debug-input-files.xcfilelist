@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-HLPhotoBrowserHelper/Pods-HLPhotoBrowserHelper-frameworks.sh
+${BUILT_PRODUCTS_DIR}/KSPhotoBrowser/KSPhotoBrowser.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework

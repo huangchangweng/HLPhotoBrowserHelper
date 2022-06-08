@@ -1,0 +1,23 @@
+PODS:
+  - KSPhotoBrowser (0.3.1):
+    - SDWebImage (~> 5.0)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+
+DEPENDENCIES:
+  - KSPhotoBrowser (= 0.3.1)
+  - SDWebImage (= 5.12.5)
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - KSPhotoBrowser
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  KSPhotoBrowser: 61059046ffdc6d8c47bc0a4ae4b5fef6395f7b53
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+
+PODFILE CHECKSUM: 5f515b431f56d27c7df88772257c21254f456d01
+
+COCOAPODS: 1.11.3
