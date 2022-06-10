@@ -6,6 +6,8 @@
 ``` objc
 pod 'HLPhotoBrowserHelper', '1.0.0'
 ```
+# Demonstration
+![image](https://github.com/huangchangweng/HLPhotoBrowserHelper/blob/main/QQ20220610-110514.gif)
 
 基本使用方法:<p>
 
